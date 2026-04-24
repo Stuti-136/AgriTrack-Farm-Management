@@ -29,11 +29,15 @@ Make sure you have the following installed:
 
 ## Running the Application
 ### Start the Backend Server
+```bash
 cd backend
 node server.js
+```
 ### Start the Frontend Application
+```bash
 cd frontend
 npm start
+```
 
 The frontend will run on http://localhost:3000.
 
